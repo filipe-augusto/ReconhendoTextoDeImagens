@@ -1,0 +1,1325 @@
+{
+	"Version": "1.0",
+	"Name": "MyTemplate",
+	"Pages": [
+		{
+			"Height": 3295,
+			"Width": 2551,
+			"Elements": [
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC11",
+					"Width": "445",
+					"Height": "70",
+					"Top": "843",
+					"Left": "1161",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "843",
+							"Left": "1161",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "843",
+							"Left": "1236",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "843",
+							"Left": "1311",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "843",
+							"Left": "1386",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "843",
+							"Left": "1461",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "843",
+							"Left": "1536",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC12",
+					"Width": "445",
+					"Height": "70",
+					"Top": "923",
+					"Left": "1161",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "923",
+							"Left": "1161",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "923",
+							"Left": "1236",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "923",
+							"Left": "1311",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "923",
+							"Left": "1386",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "923",
+							"Left": "1461",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "923",
+							"Left": "1536",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC13",
+					"Width": "445",
+					"Height": "70",
+					"Top": "1003",
+					"Left": "1161",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1003",
+							"Left": "1161",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1003",
+							"Left": "1236",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1003",
+							"Left": "1311",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1003",
+							"Left": "1386",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1003",
+							"Left": "1461",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "1003",
+							"Left": "1536",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC14",
+					"Width": "445",
+					"Height": "70",
+					"Top": "1083",
+					"Left": "1161",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1083",
+							"Left": "1161",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1083",
+							"Left": "1236",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1083",
+							"Left": "1311",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1083",
+							"Left": "1386",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1083",
+							"Left": "1461",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "1083",
+							"Left": "1536",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC15",
+					"Width": "445",
+					"Height": "70",
+					"Top": "1163",
+					"Left": "1161",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1163",
+							"Left": "1161",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1163",
+							"Left": "1236",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1163",
+							"Left": "1311",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1163",
+							"Left": "1386",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1163",
+							"Left": "1461",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "1163",
+							"Left": "1536",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC16",
+					"Width": "445",
+					"Height": "70",
+					"Top": "1243",
+					"Left": "1161",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1243",
+							"Left": "1161",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1243",
+							"Left": "1236",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1243",
+							"Left": "1311",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1243",
+							"Left": "1386",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1243",
+							"Left": "1461",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "1243",
+							"Left": "1536",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC27",
+					"Width": "445",
+					"Height": "70",
+					"Top": "843",
+					"Left": "1859",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "843",
+							"Left": "1859",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "843",
+							"Left": "1934",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "843",
+							"Left": "2009",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "843",
+							"Left": "2084",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "843",
+							"Left": "2159",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "843",
+							"Left": "2234",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC28",
+					"Width": "445",
+					"Height": "70",
+					"Top": "923",
+					"Left": "1859",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "923",
+							"Left": "1859",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "923",
+							"Left": "1934",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "923",
+							"Left": "2009",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "923",
+							"Left": "2084",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "923",
+							"Left": "2159",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "923",
+							"Left": "2234",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC29",
+					"Width": "445",
+					"Height": "70",
+					"Top": "1003",
+					"Left": "1859",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1003",
+							"Left": "1859",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1003",
+							"Left": "1934",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1003",
+							"Left": "2009",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1003",
+							"Left": "2084",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1003",
+							"Left": "2159",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "1003",
+							"Left": "2234",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC210",
+					"Width": "445",
+					"Height": "70",
+					"Top": "1083",
+					"Left": "1859",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1083",
+							"Left": "1859",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1083",
+							"Left": "1934",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1083",
+							"Left": "2009",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1083",
+							"Left": "2084",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1083",
+							"Left": "2159",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "1083",
+							"Left": "2234",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC211",
+					"Width": "445",
+					"Height": "70",
+					"Top": "1163",
+					"Left": "1859",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1163",
+							"Left": "1859",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1163",
+							"Left": "1934",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1163",
+							"Left": "2009",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1163",
+							"Left": "2084",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1163",
+							"Left": "2159",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "1163",
+							"Left": "2234",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC212",
+					"Width": "445",
+					"Height": "70",
+					"Top": "1243",
+					"Left": "1859",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "1243",
+							"Left": "1859",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "1243",
+							"Left": "1934",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "1243",
+							"Left": "2009",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "1243",
+							"Left": "2084",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "1243",
+							"Left": "2159",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "1243",
+							"Left": "2234",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC11",
+					"Width": "445",
+					"Height": "70",
+					"Top": "2467",
+					"Left": "1161",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2467",
+							"Left": "1161",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2467",
+							"Left": "1236",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2467",
+							"Left": "1311",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2467",
+							"Left": "1386",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2467",
+							"Left": "1461",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "2467",
+							"Left": "1536",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC12",
+					"Width": "445",
+					"Height": "70",
+					"Top": "2547",
+					"Left": "1161",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2547",
+							"Left": "1161",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2547",
+							"Left": "1236",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2547",
+							"Left": "1311",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2547",
+							"Left": "1386",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2547",
+							"Left": "1461",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "2547",
+							"Left": "1536",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC13",
+					"Width": "445",
+					"Height": "70",
+					"Top": "2627",
+					"Left": "1161",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2627",
+							"Left": "1161",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2627",
+							"Left": "1236",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2627",
+							"Left": "1311",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2627",
+							"Left": "1386",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2627",
+							"Left": "1461",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "2627",
+							"Left": "1536",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC14",
+					"Width": "445",
+					"Height": "70",
+					"Top": "2707",
+					"Left": "1161",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2707",
+							"Left": "1161",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2707",
+							"Left": "1236",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2707",
+							"Left": "1311",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2707",
+							"Left": "1386",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2707",
+							"Left": "1461",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "2707",
+							"Left": "1536",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC15",
+					"Width": "445",
+					"Height": "70",
+					"Top": "2787",
+					"Left": "1161",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2787",
+							"Left": "1161",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2787",
+							"Left": "1236",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2787",
+							"Left": "1311",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2787",
+							"Left": "1386",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2787",
+							"Left": "1461",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "2787",
+							"Left": "1536",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC16",
+					"Width": "445",
+					"Height": "70",
+					"Top": "2867",
+					"Left": "1161",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2867",
+							"Left": "1161",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2867",
+							"Left": "1236",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2867",
+							"Left": "1311",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2867",
+							"Left": "1386",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2867",
+							"Left": "1461",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "2867",
+							"Left": "1536",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC27",
+					"Width": "445",
+					"Height": "70",
+					"Top": "2467",
+					"Left": "1859",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2467",
+							"Left": "1859",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2467",
+							"Left": "1934",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2467",
+							"Left": "2009",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2467",
+							"Left": "2084",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2467",
+							"Left": "2159",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "2467",
+							"Left": "2234",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC28",
+					"Width": "445",
+					"Height": "70",
+					"Top": "2547",
+					"Left": "1859",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2547",
+							"Left": "1859",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2547",
+							"Left": "1934",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2547",
+							"Left": "2009",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2547",
+							"Left": "2084",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2547",
+							"Left": "2159",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "2547",
+							"Left": "2234",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC29",
+					"Width": "445",
+					"Height": "70",
+					"Top": "2627",
+					"Left": "1859",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2627",
+							"Left": "1859",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2627",
+							"Left": "1934",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2627",
+							"Left": "2009",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2627",
+							"Left": "2084",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2627",
+							"Left": "2159",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "2627",
+							"Left": "2234",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC210",
+					"Width": "445",
+					"Height": "70",
+					"Top": "2707",
+					"Left": "1859",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2707",
+							"Left": "1859",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2707",
+							"Left": "1934",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2707",
+							"Left": "2009",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2707",
+							"Left": "2084",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2707",
+							"Left": "2159",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "2707",
+							"Left": "2234",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC211",
+					"Width": "445",
+					"Height": "70",
+					"Top": "2787",
+					"Left": "1859",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2787",
+							"Left": "1859",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2787",
+							"Left": "1934",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2787",
+							"Left": "2009",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2787",
+							"Left": "2084",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2787",
+							"Left": "2159",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "2787",
+							"Left": "2234",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "ChoiceBox",
+					"Name": "SEC212",
+					"Width": "445",
+					"Height": "70",
+					"Top": "2867",
+					"Left": "1859",
+					"AlignedHorizontally": false,
+					"AlignedVertically": false,
+					"BubbleHeight": 70,
+					"BubbleWidth": 70,
+					"Bubbles": [
+						{
+							"Value": "A",
+							"Top": "2867",
+							"Left": "1859",
+							"IsValid": true
+						},
+						{
+							"Value": "B",
+							"Top": "2867",
+							"Left": "1934",
+							"IsValid": true
+						},
+						{
+							"Value": "C",
+							"Top": "2867",
+							"Left": "2009",
+							"IsValid": true
+						},
+						{
+							"Value": "D",
+							"Top": "2867",
+							"Left": "2084",
+							"IsValid": true
+						},
+						{
+							"Value": "E",
+							"Top": "2867",
+							"Left": "2159",
+							"IsValid": true
+						},
+						{
+							"Value": "F",
+							"Top": "2867",
+							"Left": "2234",
+							"IsValid": true
+						}
+					],
+					"Multiselect": false,
+					"Orientation": "Horizontal"
+				},
+				{
+					"Type": "BarcodeDownloadable",
+					"Name": "test_id",
+					"Width": "521",
+					"Height": "112",
+					"Top": "1541",
+					"Left": "319",
+					"BarcodeType": "Code32"
+				},
+				{
+					"Type": "BarcodeDownloadable",
+					"Name": "test_id",
+					"Width": "521",
+					"Height": "112",
+					"Top": "3165",
+					"Left": "319",
+					"BarcodeType": "Code32"
+				},
+				{
+					"Type": "ClipArea",
+					"Name": "left-content",
+					"Width": "739",
+					"Height": "136",
+					"Top": "2515",
+					"Left": "210",
+					"JpegQuality": 0,
+					"Required": true
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint0",
+					"Width": "128",
+					"Height": "128",
+					"Top": "25",
+					"Left": "25"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint1",
+					"Width": "128",
+					"Height": "128",
+					"Top": "25",
+					"Left": "2398"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint2",
+					"Width": "128",
+					"Height": "128",
+					"Top": "3142",
+					"Left": "25"
+				},
+				{
+					"Type": "ReferencePointElement",
+					"Name": "ReferencePoint3",
+					"Width": "128",
+					"Height": "128",
+					"Top": "3142",
+					"Left": "2398"
+				}
+			],
+			"ImageFormat": ".png",
+			"ImageName": null
+		}
+	],
+	"TemplateId": "",
+	"FinalizationComplete": false,
+	"IsGenerated": true
+}

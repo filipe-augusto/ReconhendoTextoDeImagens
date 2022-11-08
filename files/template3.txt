@@ -1,0 +1,20 @@
+?text=prova multipla escolha!
+	font_style=bold
+	font_size=24
+	align=center
+#
+	() A. ()B. ()C. ()D.
+#
+	() A. ()B. ()C. ()D.
+#
+	() A. ()B. ()C. ()D.
+#
+	() A. ()B. ()C. ()D.
+#
+	() A. ()B. ()C. ()D.
+#
+	() A. ()B. ()C. ()D.
+#
+	() A. ()B. ()C. ()D.
+#
+	() A. ()B. ()C. ()D.
